@@ -1,2 +1,3 @@
 baseurl: /
 timezone: America/New_York
+auto: true
